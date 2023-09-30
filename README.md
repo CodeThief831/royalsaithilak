@@ -2,7 +2,7 @@
 <h3 align="center">Stay one step ahead of cyber threats with Rizz.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW11d2w4OGJxZ3pmYjdudnBzY2N3cWFlZzRxYXg1MGtvczQ0eXZmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royalsaithilak&label=Profile%20views&color=0e75b6&style=flat" alt="royalsaithilak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeThief831k&label=Profile%20views&color=0e75b6&style=flat" alt="CodeThief831" /> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking, Cyber Security, Google IT Support, Machine Learning with Python**
 
